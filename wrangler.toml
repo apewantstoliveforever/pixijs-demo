@@ -1,0 +1,10 @@
+name = "xxx"
+account_id = "cb0bdac68e682c51489a5c1dd5f5d96f"
+workers_dev = true
+
+compatibility_date = "2025-10-29"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
